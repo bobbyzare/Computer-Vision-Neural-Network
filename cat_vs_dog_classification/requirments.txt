@@ -1,0 +1,6 @@
+tensorflow
+keras
+cv2
+scikit-learn
+numpy
+matplotlib
